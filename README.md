@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack development, with a strong focus on creating efficient and scalable backend systems.
 - 🌱 I’m currently learning more about backend technologies, including C#, .NET Core, and databases like MongoDB and Azure Cosmos DB.
 - 💞️ I’m looking to collaborate on projects related to backend development, real-time chat applications, and cloud integrations.
-- 📫 How to reach me: You can contact me via email at [biswajit1973.pal@gmail.com] or connect with me on LinkedIn [your LinkedIn profile link].
+- 📫 How to reach me: You can contact me via email at - biswajit1973.pal@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built a chat application backend that can handle thousands of simultaneous connections seamlessly!
 
