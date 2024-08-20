@@ -9,6 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=Abhijit-Shihaan&color=blue" alt="watching_count" />
 <img src="https://img.shields.io/github/stars/Abhijit-Shihaan?label=Stars" alt="stars">
 <img src="https://myreadme.vercel.app/api/embed/Abhijit-Shihaan?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Metrics](https://metrics.lecoq.io/Abhijit-Shihaan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 <!---
 Abhijit-Shihaan/Abhijit-Shihaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
