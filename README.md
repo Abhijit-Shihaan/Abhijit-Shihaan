@@ -5,7 +5,6 @@
 - 📫 How to reach me: You can contact me via email at - biswajit1973.pal@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built a chat application backend that can handle thousands of simultaneous connections seamlessly!
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit-Shihaan&theme=tokyonight" alt="mystreak"/>
 <img src="https://komarev.com/ghpvc/?username=Abhijit-Shihaan&color=blue" alt="watching_count" />
 <img src="https://img.shields.io/github/stars/Abhijit-Shihaan?label=Stars" alt="stars">
 <img src="https://myreadme.vercel.app/api/embed/Abhijit-Shihaan?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
@@ -22,19 +21,16 @@
     <a href="#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijit-Shihaan&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
-    <!-- Github Streak Stats -->
     <a href="#gh-dark-mode-only">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijit-Shihaan&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijit-Shihaan&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
     </a>
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+    <a href="https://leetcode.com/gadai2003#gh-dark-mode-only">
+        <img src="https://leetcard.jacoblin.cool/gadai2003?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
-    <a href="https://leetcode.com/cheehwatang#gh-light-mode-only">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
+    <a href="https://leetcode.com/gadai2003#gh-light-mode-only">
+        <img src="https://leetcard.jacoblin.cool/gadai2003?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
     </a>
     <!-- Github Contribution 3D Profile -->
     <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
