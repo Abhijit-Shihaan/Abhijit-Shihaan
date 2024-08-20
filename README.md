@@ -33,8 +33,7 @@
         <img src="https://leetcard.jacoblin.cool/gadai2003?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
     </a>
     <!-- Github Contribution 3D Profile -->
-    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
-    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
+   
 </div>
 <!---
 Abhijit-Shihaan/Abhijit-Shihaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
