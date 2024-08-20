@@ -26,6 +26,8 @@
     </a>
     <a href="#gh-light-mode-only">
     </a>
+    <br>
+    <br>
     <a href="https://leetcode.com/gadai2003#gh-dark-mode-only">
         <img src="https://leetcard.jacoblin.cool/gadai2003?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
