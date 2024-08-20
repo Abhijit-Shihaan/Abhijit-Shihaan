@@ -35,7 +35,37 @@
     <a href="https://leetcode.com/gadai2003#gh-light-mode-only">
         <img src="https://leetcard.jacoblin.cool/gadai2003?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
     </a>
-    <!-- Github Contribution 3D Profile -->
+<p align="center">
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-050505?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
+    </a>
+    &emsp;
+</p>    
    
 </div>
 <!---
