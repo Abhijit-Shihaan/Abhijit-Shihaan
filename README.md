@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I built a chat application backend that can handle thousands of simultaneous connections seamlessly!
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit-Shihaan&theme=tokyonight" alt="mystreak"/>
 <img src="https://komarev.com/ghpvc/?username=Abhijit-Shihaan&color=blue" alt="watching_count" />
+<img src="https://img.shields.io/github/stars/Abhijit-Shihaan?label=Stars" alt="stars">
 <!---
 Abhijit-Shihaan/Abhijit-Shihaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
