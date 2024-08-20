@@ -5,8 +5,7 @@
 - 📫 How to reach me: You can contact me via email at - biswajit1973.pal@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built a chat application backend that can handle thousands of simultaneous connections seamlessly!
-
-![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijit-Shihaan&show_icons=true&theme=transparent)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit-Shihaan&theme=tokyonight" alt="mystreak"/>
 <!---
 Abhijit-Shihaan/Abhijit-Shihaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
