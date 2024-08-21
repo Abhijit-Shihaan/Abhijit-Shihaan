@@ -16,8 +16,7 @@
     </a>
 </div>
 <img src="https://myreadme.vercel.app/api/embed/Abhijit-Shihaan?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhijit-Shihaan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit-Shihaan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhijit-Shihaan&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
